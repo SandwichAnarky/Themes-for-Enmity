@@ -66,8 +66,8 @@
       "#FFFFFF"
     ],
     "BACKGROUND_FLOATING": [
-      "#000000",
-      "#000000"
+      "#000001",
+      "#000001"
     ],
     "BACKGROUND_MOBILE_PRIMARY": [
       "#171717",
@@ -147,7 +147,7 @@
     "PRIMARY_DARK_700": "#171717",
     "PRIMARY_DARK_800": "#171717",
     "PRIMARY_DARK_900": "#171717",
-    "WHITE": "#FFFFFF"
+    "WHITE": "#FEFEFE"
   },
   "unsafe_colors": {
     "CHAT_GREY": [ "#171717", "#171717" ]
