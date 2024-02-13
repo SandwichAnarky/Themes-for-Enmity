@@ -1,11 +1,11 @@
 {
-  "name": "ClearVision",
+  "name": "ClearSandwich",
   "version": "1.0",
-  "description": "Credits to Zerthox for the better discord theme",
+  "description": "Credits to Zerthox for the better discord theme, credits to Madhav for the port",
   "authors": [
     {
-      "name": "Madhav",
-      "id": "757530324686340197"
+      "name": "Sandwich",
+      "id": "648945535579062274"
     }
   ],
   "theme_color_map": {
@@ -66,8 +66,8 @@
       "#FFFFFF"
     ],
     "BACKGROUND_FLOATING": [
-      "#171717",
-      "#FFFFFF"
+      "transparent",
+      "transparent"
     ],
     "BACKGROUND_MOBILE_PRIMARY": [
       "#171717",
