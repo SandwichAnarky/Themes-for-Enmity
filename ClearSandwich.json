@@ -10,7 +10,7 @@
   ],
   "theme_color_map": {
     "KEYBOARD": [
-      "#1a1926",
+      "#171717",
       "#FFFFFF"
     ],
     "HEADER_PRIMARY": [
@@ -146,10 +146,11 @@
     "PRIMARY_DARK_630": "#1f1f1f",
     "PRIMARY_DARK_700": "#171717",
     "PRIMARY_DARK_800": "#171717",
-    "PRIMARY_DARK_900": "#171717"
+    "PRIMARY_DARK_900": "#171717",
+    "WHITE": "#FFFFFF"
   },
   "unsafe_colors": {
-    "CHAT_GREY": "#171717"
+    "CHAT_GREY": [ "#171717", "#171717" ]
   },
   "background": {
     "blur": 0.5,
