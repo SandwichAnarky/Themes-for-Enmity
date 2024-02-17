@@ -11,11 +11,11 @@
   ],
   "theme_color_map": {
     "HEADER_PRIMARY": [
-      "#f4dc8f",
+      "#248e00",
       "#ffffff"
     ],
     "HEADER_SECONDARY": [
-      "#c3af6f",
+      "#248e00",
       "#ffffff"
     ],
     "TEXT_NORMAL": [
@@ -158,7 +158,7 @@
     "PRIMARY_DARK_800": "#000000",
     "PRIMARY_DARK_900": "#050505",
     "BRAND_NEW_260": "#8a94a8",
-    "BRAND_NEW_500": "#2c2c2c",
+    "BRAND_NEW_500": "#f4dc8f",
     "BRAND_NEW_900": "#ffffff",
     "BRAND_NEW": "#8a94a8",
     "STATUS_YELLOW_300": "#ffffff",
