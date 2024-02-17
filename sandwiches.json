@@ -27,11 +27,11 @@
       "#ffffff"
     ],
     "INTERACTIVE_NORMAL": [
-      "#f4dc8f",
+      "#ffffff",
       "#FFFFFF"
     ],
     "INTERACTIVE_HOVER": [
-      "#5B5B5B",
+      "#f4dc8f",
       "#ffffff"
     ],
     "INTERACTIVE_ACTIVE": [
@@ -63,7 +63,7 @@
       "#ffffff"
     ],
     "BACKGROUND_FLOATING": [
-      "transparent",
+      "#545454",
       "#ffffff"
     ],
     "BACKGROUND_MOBILE_PRIMARY": [
