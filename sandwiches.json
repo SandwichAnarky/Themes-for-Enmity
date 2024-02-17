@@ -27,7 +27,7 @@
       "#ffffff"
     ],
     "INTERACTIVE_NORMAL": [
-      "#ffffff",
+      "#c3af6f",
       "#FFFFFF"
     ],
     "INTERACTIVE_HOVER": [
@@ -167,7 +167,7 @@
     "STATUS_RED": "#848484"
   },
   "unsafe_colors": {
-    "CHAT_GREY": "#8E8E8E"
+    "CHAT_GREY": "#f4dc8f"
   }
   
 }
