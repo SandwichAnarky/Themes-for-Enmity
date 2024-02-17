@@ -11,11 +11,11 @@
   ],
   "theme_color_map": {
     "HEADER_PRIMARY": [
-      "#2eff00",
+      "#ffffff",
       "#ffffff"
     ],
     "HEADER_SECONDARY": [
-      "#ffffff",
+      "#2eff00",
       "#ffffff"
     ],
     "TEXT_NORMAL": [
