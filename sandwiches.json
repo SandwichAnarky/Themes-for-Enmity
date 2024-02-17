@@ -1,21 +1,21 @@
 {
-  "name": "betterdarktransparent",
-  "description": "Darker than dark",
-  "version": "1.1",
-  "color": "#3E3C3C",
+  "name": "sandwiches",
+  "description": "Why would you use this theme?",
+  "version": "1.0",
+  "color": "#f4dc8f",
   "authors": [
     {
-      "name": "darealyeeto",
-      "id": "980160393093730395"
+      "name": "Sandwich",
+      "id": "648945535579062274"
     }
   ],
   "theme_color_map": {
     "HEADER_PRIMARY": [
-      "#ffffff",
+      "#f4dc8f",
       "#ffffff"
     ],
     "HEADER_SECONDARY": [
-      "#ffffff",
+      "#c3af6f",
       "#ffffff"
     ],
     "TEXT_NORMAL": [
@@ -27,7 +27,7 @@
       "#ffffff"
     ],
     "INTERACTIVE_NORMAL": [
-      "#FFFFFF",
+      "#f4dc8f",
       "#FFFFFF"
     ],
     "INTERACTIVE_HOVER": [
@@ -132,7 +132,7 @@
       "#ffffff"
     ],
     "TEXT_LINK": [
-      "#848484",
+      "#395bff",
       "#ffffff"
     ],
     "KEYBOARD": [
