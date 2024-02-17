@@ -27,7 +27,7 @@
       "#ffffff"
     ],
     "INTERACTIVE_NORMAL": [
-      "#c3af6f",
+      "#f6b1b1",
       "#FFFFFF"
     ],
     "INTERACTIVE_HOVER": [
@@ -35,11 +35,11 @@
       "#ffffff"
     ],
     "INTERACTIVE_ACTIVE": [
-      "#f4dc8f",
+      "#fec5c5",
       "#FFFFFF"
     ],
     "INTERACTIVE_MUTED": [
-      "#c3af6f",
+      "#d69191",
       "#FFFFFF"
     ],
     "BACKGROUND_PRIMARY": [
